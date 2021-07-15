@@ -47,6 +47,8 @@ flutter:
   - images/Welcome.png
   - images/Whats_going_to_happe.png
   - images/Group.png
+  - images/Rectangle_2.png
+  - images/Get_Started.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
