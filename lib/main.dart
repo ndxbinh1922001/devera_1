@@ -51,9 +51,18 @@ class MyApp2 extends StatelessWidget {
                   Expanded(flex: 4,child: Container(
                     child: Stack(
                       children: [
-                        Container(
-                          child: Image.asset('images/Group.png',width: 500,),
-                        ),
+                      Container(
+                      width: MediaQuery.of(context).size.width,
+                      height: 100,
+                      decoration: BoxDecoration(
+                      image: DecorationImage(
+                          fit: BoxFit.fill,
+                          image:  AssetImage('images/Group.png')
+                      )
+                      ),
+                    ),
+
+
                         Container(
                           child: Center(
                             child:
@@ -62,7 +71,8 @@ class MyApp2 extends StatelessWidget {
                                   Center(child: Image.asset('images/Rectangle_2.png')),
                                   Center(child: Image.asset('images/Get_Started.png'))
                             ]
-                            )),
+                            )
+                            ),
                           ),
                         )
                       ],
