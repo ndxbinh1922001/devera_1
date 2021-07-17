@@ -40,7 +40,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-  - images/
+
   - images/fill1.png
   - images/aking.png
   - images/walk_through_1_1.png
@@ -49,6 +49,30 @@ flutter:
   - images/Group.png
   - images/Rectangle_2.png
   - images/Get_Started.png
+  - images/bacham.png
+  - images/undraw_superhero_kguv.png
+  - images/Work_happens.png
+  - images/Get_notified_ when_ wo.png
+  - images/Pagination.png
+  - images/Group (1).png
+  - images/Log In.png
+  - images/undraw_analysis_4jis.png
+  - images/Tasks and assign.png
+  - images/Task and assign them.png
+  - images/Pagination (1).png
+  - images/Group (2).png
+  - images/Fill 1.png
+  - images/Welcome back.png
+  - images/Sign in to continue.png
+  - images/Username.png
+  - images/Password.png
+  - images/Forgot password.png
+  - - images/Forgot password nho.png
+  - images/Rectangle 2.png
+  - images/Log In (1).png
+  - images/Please enter your em.png
+  - images/Send Request.png
+  - images/Reset Password.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
